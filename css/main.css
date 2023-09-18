@@ -287,27 +287,27 @@ img.pull-left {
 /* Style Placeholder Text  
 --------------------------------------------------------------------- */
 ::-webkit-input-placeholder {
-	color: #12151B;
+	color: #cccccc;
 }
 
 :-moz-placeholder {
 
 	/* Firefox 18- */
-	color: #12151B;
+	color: #cccccc;
 }
 
 ::-moz-placeholder {
 
 	/* Firefox 19+ */
-	color: #12151B;
+	color: #cccccc;
 }
 
 :-ms-input-placeholder {
-	color: #12151B;
+	color: #cccccc;
 }
 
 .placeholder {
-	color: #12151B !important;
+	color: #cccccc !important;
 }
 
 /* block grids default paddings 
@@ -355,7 +355,7 @@ img.pull-left {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: #ffffff;
+	background: #1cc45f;
 	z-index: 9999999;
 	height: 100%;
 	width: 100%;
@@ -709,7 +709,7 @@ header .header-social li a:hover {
 
 @media only screen and (max-width:768px) {
 	header {
-		background: black;
+		background: white;
 		border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 	}
 
