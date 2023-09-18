@@ -639,7 +639,7 @@ header {
 	
 }
 header.opaque {
-	background: black;
+	background: white;
 	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -967,7 +967,7 @@ ul#nav li.current a:after {
 /* =================================================================== */
 
 #hero {
-	background: #0F1215 url(../images/hero-bg.jpg) no-repeat center;
+	background: #ffffff url(../images/hero-bg.jpg) no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -1293,7 +1293,7 @@ ul#nav li.current a:after {
 /* =================================================================== */
 
 #portfolio {
-	background: #111417;
+	background: #ffffff;
 	padding-top: 120px;
 	border-bottom: 1px solid #15191d;  
 }
@@ -1337,7 +1337,7 @@ ul#nav li.current a:after {
 }
 
 .folio-item .item-wrap {
-	background: #111417;
+	background: #ffffff;
 	overflow: hidden;
 	position: relative;
 }
@@ -1355,7 +1355,7 @@ ul#nav li.current a:after {
 	top: 0;
 	width: 100%;
 	height: 100%;
-	background: rgba(0, 0, 0, 0.85);
+	background: rgba(251, 250, 250, 0.85);
 	filter: alpha(opacity=0);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	opacity: 0;
