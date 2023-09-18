@@ -237,7 +237,7 @@ dfn[title] {
 
 mark {
 	background: #1cc45f;
-	color: #ffffff;
+	color: #000;
 }
 
 hr {
@@ -639,7 +639,7 @@ header {
 	
 }
 header.opaque {
-	background: #ffffff;
+	background: white;
 	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -667,7 +667,7 @@ header .logo a {
 	color: transparent;
 	width: 114px;
 	height: 66px;
-	background: url("../images/logoNG.png") no-repeat center;
+	background: url("../images/logoK@2x.png") no-repeat center;
 	background-size: 61px 14px;
 }
 
@@ -883,7 +883,7 @@ ul#nav li.current a:after {
 
 	/* dropdown nav */
 	#nav-wrap ul#nav {
-		background: #ffffff;
+		background: #1c212a;
 		padding: 54px 45px 60px 45px;
 		margin: 0;
 		height: auto;
@@ -2474,7 +2474,7 @@ footer .info {
 footer .footer-logo {
 	width: 100px;
 	height: 23px;
-	background: url("../images/logoNG.png") no-repeat center;
+	background: url("../images/logoW@2x.png") no-repeat center;
 	background-size: 100px 23px;
 	margin: 0 auto 21px;
 	display: block;
