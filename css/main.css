@@ -41,7 +41,7 @@ body {
 }
 
 body {
-	background: #ffffff;
+	background: #8A8A8A;
 	font: 16px/30px "merriweather-regular", serif;
 	font-weight: normal;
 	color: #575859;
@@ -2437,7 +2437,7 @@ footer {
 	padding-top: 60px;
 	padding-bottom: 24px;
 	position: relative;
-	color: rgba(255, 255, 255, 0.15);
+	color: rgb(249, 249, 246);
 }
 
 footer .content {
