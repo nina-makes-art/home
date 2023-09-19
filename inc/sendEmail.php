@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'ninagelderblom@gmail.com';
+$siteOwnersEmail = '144774323+nina-makes-art@users.noreply.github.com';
 
 
 if($_POST) {
