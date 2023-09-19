@@ -564,7 +564,7 @@ hr {
 	font: 15px/30px "raleway-heavy", sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 2.5px;
-	color: #FFFFFF;
+	color: #283436;
 	margin-bottom: 30px;
 	margin-top: 18px;
 }
@@ -771,7 +771,7 @@ ul#nav li a {
 	line-height: 38px;
 	text-decoration: none;
 	text-align: left;
-	color: #FFFFFF;
+	color: #283436;
 	position: relative;
 	-moz-transition: color 0.2s ease-in-out;
 	-o-transition: color 0.2s ease-in-out;
@@ -860,7 +860,7 @@ ul#nav li.current a:after {
 		transition: all 0.3s ease-in-out;
 		font: 0/0 a;
 		text-shadow: none;
-		color: transparent;
+		color: white;
 	}
 
 	#nav-wrap .menu-icon:before,
@@ -913,14 +913,14 @@ ul#nav li.current a:after {
 		display: block;
 		width: auto;
 		padding: 0;
-		color: #cacbcb;
+		color: #283436;
 		padding: 12px 0;
 		line-height: 16px;
 		border: none;
 	}
 
 	#nav-wrap ul#nav li a:hover {
-		color: #FFFFFF;
+		color: #707273;
 	}
 
 	#nav-wrap ul#nav li.current > a {
@@ -2180,7 +2180,7 @@ ul#nav li.current a:after {
 /* =================================================================== */
 
 #contact {
-	background: #12151B;
+	background: #575859;
 	padding-top: 120px;
 	padding-bottom: 138px;
 	overflow: hidden;
@@ -2339,7 +2339,7 @@ input[type="email"],
 #submit-loader .text-loader {
 	display: none;
 	font: 14px/30px "raleway-heavy", sans-serif;
-	color: #FFFFFF;
+	color: #283436;
 	letter-spacing: 3px;
 	text-transform: uppercase;
 }
@@ -2519,7 +2519,7 @@ footer .social-links li a {
 }
 
 footer .social-links li a:hover {
-	color: white;
+	color: black;
 }
 
 footer .social-links li:first-child {
@@ -2588,9 +2588,9 @@ footer .social-links li:first-child {
 	height: 54px;
 	width: 200px;
 	margin-left: -100px;
-	background: #e64e04;
+	background: #283436;
 	box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);
-	color: #FFFFFF;
+	color: #ffffff;
 	text-align: center;
 	border-radius: 3px;
 	font: 12px/54px "raleway-heavy", sans-serif;
